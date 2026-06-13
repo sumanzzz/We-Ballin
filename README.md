@@ -8,7 +8,7 @@ A simple 2D survival game built with **Lua** and **LÖVE (Love2D)**.
   <img src="demo.gif" alt="Gameplay Demo" width="700">
 </p>
 
-> Replace `demo.gif` with your gameplay recording.
+![Demo](we_ballin.gif)
 
 ## Overview
 
